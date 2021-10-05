@@ -1,0 +1,8 @@
+7
+79C:\Users\esstu\documents\bootcamp-generation\modulos\dist\index.6b9ca3e8.js.map132778359470140217 0
+60C:\Users\esstu\documents\bootcamp-generation\modulos\main.js132778357338014214 0
+57C:\Users\esstu\documents\bootcamp-generation\modulos\dist132778359470150192 1
+63C:\Users\esstu\documents\bootcamp-generation\modulos\index.html132778346229099578 0
+67C:\Users\esstu\documents\bootcamp-generation\modulos\operaciones.js132778359469221085 0
+75C:\Users\esstu\documents\bootcamp-generation\modulos\dist\index.6b9ca3e8.js132778359470110326 0
+68C:\Users\esstu\documents\bootcamp-generation\modulos\dist\index.html132778352757338571 0
